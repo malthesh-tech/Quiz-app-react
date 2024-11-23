@@ -1,0 +1,113 @@
+[
+    {
+      "id": 1,
+      "question": "What does HTML stand for?",
+      "options": [
+        { "key": "a", "text": "HyperText Markdown Language", "correct": false },
+        { "key": "b", "text": "HyperText Markup Language", "correct": true },
+        { "key": "c", "text": "HomeTool Markup Language", "correct": false },
+        { "key": "d", "text": "HyperTransfer Markup Language", "correct": false }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": 2,
+      "question": "Which property is used to change the background color in CSS?",
+      "options": [
+        { "key": "a", "text": "background-color", "correct": true },
+        { "key": "b", "text": "color", "correct": false },
+        { "key": "c", "text": "bgcolor", "correct": false },
+        { "key": "d", "text": "background", "correct": false }
+      ],
+      "answer": "a"
+    },
+    {
+      "id": 3,
+      "question": "Which tag is used to define a hyperlink in HTML?",
+      "options": [
+        { "key": "a", "text": "<link>", "correct": false },
+        { "key": "b", "text": "<a>", "correct": true },
+        { "key": "c", "text": "<href>", "correct": false },
+        { "key": "d", "text": "<hyper>", "correct": false }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": 4,
+      "question": "What is the correct syntax to link an external CSS file?",
+      "options": [
+        { "key": "a", "text": "<style src='styles.css'>", "correct": false },
+        { "key": "b", "text": "<link href='styles.css' rel='stylesheet'>", "correct": true },
+        { "key": "c", "text": "<stylesheet>styles.css</stylesheet>", "correct": false },
+        { "key": "d", "text": "<css-link>styles.css</css-link>", "correct": false }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": 5,
+      "question": "Which of the following is used to declare a variable in JavaScript?",
+      "options": [
+        { "key": "a", "text": "var", "correct": false },
+        { "key": "b", "text": "let", "correct": false },
+        { "key": "c", "text": "const", "correct": false },
+        { "key": "d", "text": "All of the above", "correct": true }
+      ],
+      "answer": "d"
+    },
+    {
+      "id": 6,
+      "question": "What is the purpose of the `<head>` tag in HTML?",
+      "options": [
+        { "key": "a", "text": "To define the main content", "correct": false },
+        { "key": "b", "text": "To specify metadata and links to resources", "correct": true },
+        { "key": "c", "text": "To create a header section", "correct": false },
+        { "key": "d", "text": "To add footer information", "correct": false }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": 7,
+      "question": "Which CSS property is used to make text bold?",
+      "options": [
+        { "key": "a", "text": "font-weight", "correct": true },
+        { "key": "b", "text": "font-bold", "correct": false },
+        { "key": "c", "text": "font-style", "correct": false },
+        { "key": "d", "text": "text-weight", "correct": false }
+      ],
+      "answer": "a"
+    },
+    {
+      "id": 8,
+      "question": "What does the `===` operator do in JavaScript?",
+      "options": [
+        { "key": "a", "text": "Checks for equality only", "correct": false },
+        { "key": "b", "text": "Checks for value equality and type equality", "correct": true },
+        { "key": "c", "text": "Assigns a value to a variable", "correct": false },
+        { "key": "d", "text": "Performs type conversion before comparison", "correct": false }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": 9,
+      "question": "Which tag is used to display an image in HTML?",
+      "options": [
+        { "key": "a", "text": "<picture>", "correct": false },
+        { "key": "b", "text": "<image>", "correct": false },
+        { "key": "c", "text": "<img>", "correct": true },
+        { "key": "d", "text": "<src>", "correct": false }
+      ],
+      "answer": "c"
+    },
+    {
+      "id": 10,
+      "question": "What is the default position of an element in CSS?",
+      "options": [
+        { "key": "a", "text": "relative", "correct": false },
+        { "key": "b", "text": "static", "correct": true },
+        { "key": "c", "text": "absolute", "correct": false },
+        { "key": "d", "text": "fixed", "correct": false }
+      ],
+      "answer": "b"
+    }
+  ]
+  
